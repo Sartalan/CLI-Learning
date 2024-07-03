@@ -1,0 +1,17 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "my-cli": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
